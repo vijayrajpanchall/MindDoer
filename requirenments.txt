@@ -33,3 +33,4 @@ sse_starlette
 streamlit
 langchain_community
 faiss-cpu
+langgraph
